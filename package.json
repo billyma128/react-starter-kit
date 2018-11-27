@@ -159,7 +159,7 @@
     "rimraf": "^2.6.2",
     "selenium-server": "^3.4.0",
     "style-loader": "^0.13.1",
-    "stylelint": "^9.5.0",
+    "stylelint": "^9.9.0",
     "stylelint-config-standard": "^18.2.0",
     "stylelint-order": "^1.0.0",
     "svg-url-loader": "^2.3.2",
