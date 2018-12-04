@@ -117,7 +117,7 @@
     "identity-obj-proxy": "^3.0.0",
     "jest": "^23.6.0",
     "jest-transform-graphql": "^2.1.0",
-    "jscodeshift": "^0.3.32",
+    "jscodeshift": "^0.6.0",
     "less": "3.8.1",
     "less-loader": "4.1.0",
     "lint-staged": "^7.3.0",
