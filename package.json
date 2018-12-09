@@ -41,7 +41,7 @@
     "history": "^4.7.2",
     "http-proxy-middleware": "^0.17.4",
     "immutable": "^3.8.1",
-    "ioredis": "4.2.0",
+    "ioredis": "4.3.0",
     "isomorphic-style-loader": "^4.0.0",
     "lodash": "^4.17.11",
     "microseconds": "^0.1.0",
