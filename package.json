@@ -94,7 +94,7 @@
     "browser-sync": "^2.24.7",
     "chokidar": "^2.0.4",
     "cross-spawn": "^5.1.0",
-    "css-loader": "^1.0.0",
+    "css-loader": "^2.0.1",
     "cz-emoji": "1.1.2",
     "editorconfig-tools": "^0.1.1",
     "enzyme": "^3.6.0",
