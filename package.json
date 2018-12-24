@@ -64,7 +64,7 @@
     "redux-logger": "^3.0.6",
     "redux-saga": "^0.15.3",
     "reselect": "^3.0.1",
-    "serialize-javascript": "^1.5.0",
+    "serialize-javascript": "1.5.0",
     "universal-router": "^7.0.0",
     "whatwg-fetch": "^3.0.0"
   },
