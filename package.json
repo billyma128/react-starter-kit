@@ -37,7 +37,7 @@
     "express-useragent": "^1.0.12",
     "fastclick": "^1.0.6",
     "graphql": "^0.13.2",
-    "graphql-tag": "^2.9.2",
+    "graphql-tag": "^2.10.1",
     "history": "^4.7.2",
     "http-proxy-middleware": "^0.17.4",
     "immutable": "^3.8.1",
