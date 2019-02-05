@@ -92,7 +92,7 @@
     "babel-plugin-import": "1.11.0",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.20",
     "browser-sync": "^2.24.7",
-    "chokidar": "^2.0.4",
+    "chokidar": "2.0.4",
     "cross-spawn": "^5.1.0",
     "css-loader": "^1.0.0",
     "cz-emoji": "1.1.2",
