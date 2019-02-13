@@ -29,7 +29,7 @@
     "body-parser": "^1.18.3",
     "bowser": "^1.9.4",
     "classnames": "^2.2.6",
-    "cookie-parser": "^1.4.3",
+    "cookie-parser": "1.4.3",
     "date-fns": "1.29.0",
     "debug": "4.1.0",
     "dotenv": "6.1.0",
