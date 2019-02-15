@@ -98,7 +98,7 @@
     "cz-emoji": "1.1.2",
     "editorconfig-tools": "^0.1.1",
     "enzyme": "^3.6.0",
-    "eslint": "^5.6.0",
+    "eslint": "^5.14.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-config-prettier": "^3.0.1",
     "eslint-import-resolver-node": "^0.3.2",
