@@ -42,7 +42,7 @@
     "http-proxy-middleware": "^0.17.4",
     "immutable": "^3.8.1",
     "ioredis": "4.2.0",
-    "isomorphic-style-loader": "^4.0.0",
+    "isomorphic-style-loader": "^5.0.1",
     "lodash": "^4.17.11",
     "microseconds": "^0.1.0",
     "node-fetch": "^2.2.0",
